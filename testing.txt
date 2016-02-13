@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is testing file...
 
 ** Used to test the file check in..
+=======
+testing
+>>>>>>> 2e52091c107ca6cb9edc1b18fdeee551cabb3fb7
